@@ -1,4 +1,4 @@
-package br.com.elton.springservice;
+package br.com.elton.springservice.model;
 
 public class Greeting {
 	
